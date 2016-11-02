@@ -1,0 +1,14 @@
+<li><h4>AlertLogic Fine Tuning</h4></li>
+<ul>
+  <li>Upon initial deployment of the production environment, the AlertLogic Web Application Firewall (WAF) comes delivered in Detect Mode.  Prior to go live of the site, the WAF must be fine-tuned by AlertLogic before it
+ can be switched to Protect Mode.  If this does not occur, your site will not be properly secured and will be in violation of KO security standards.  In order to begin fine tuning the WAF, you will need to submit the fol
+lowing information to <a href="mailto:support@alertlogic.com">support@alertlogic.com</a>, <a href="mailto:em@alertlogic.com">em@alertlogic.com</a> and <a href="mailto:globalcloudops@coca.cola.com">globalcloudops@coca.col
+a.com</a>:<ul>
+      <li>IP address</li>
+      <li>Synergy App ID</li>
+      <li>Site URL</li>
+      <li>Agency Phone/email contact information</li>
+      <li>Expected go-live date (Protect Mode will be enabled no more than 2 weeks after go live, no exceptions)</li>
+    </ul>
+  </li>
+</ul>

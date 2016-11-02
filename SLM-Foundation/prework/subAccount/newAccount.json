@@ -1,0 +1,17 @@
+{
+  "ParentAlias": "KODV",
+  "AccountAlias":"KO19",
+  "Location": "VA1",
+  "BusinessName": "Testing Automation",
+  "Address1": "1 Savvis Parkway",
+  "Address2": null,
+  "City": "St. Louis",
+  "StateProvince": "MO",
+  "PostalCode": "63017",
+  "Country": "USA",
+  "Telephone": "877-628-6771",
+  "Fax": null,
+  "TimeZone":"Pacific Standard Time",
+  "ShareParentNetworks": "False",
+  "BillingResponsibilityID": "2"
+}

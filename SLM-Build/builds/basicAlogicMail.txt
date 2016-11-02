@@ -1,0 +1,16 @@
+CLC Support Team,
+
+Please complete the following DSE Service Task:
+
+Import the Ecosystem Partner Template referencing the attached CSV file for required the information.
+
+Please reference the below KB articles:
+https://support.ctl.io/hc/en-us/articles/206784963-Scripted-build-of-Alert-Logic-Web-Security-Manager
+https://support.ctl.io/hc/en-us/articles/206520443-How-to-build-an-Alert-Logic-Web-Security-Manager-for-Coke
+
+I Pre-Approve the DSE Charges for this request, please process.
+
+My user name: alogic.automation.tccc
+
+My Pin: 984999
+

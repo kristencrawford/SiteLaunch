@@ -1,0 +1,6 @@
+<li><h4>Database Info:</h4></li>
+<ul>
+  <li>Please access your application’s DB information on the CLC dropbox at: <a href="https://dropbox.va1.ctlko.com/__agency__/__siteID__">https://dropbox.va1.ctlko.com/__agency__/__siteID__</a></li>
+  <li>Both production and test database access credentials are stored in the dbinfo.xml files located in the above directory.</li>
+  <li>You will be prompted for a username and password.  Please use your CTLKO login credentials (the same login/password used for uDeploy, SVN, and Splunk).</li>
+</ul>

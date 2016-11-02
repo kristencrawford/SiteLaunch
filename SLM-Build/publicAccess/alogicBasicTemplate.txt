@@ -1,0 +1,32 @@
+Technical contact:
+  - Name: CLC Adaptive Support
+  - Title: Adaptive Support (AS)
+  - Phone #: 888-606-6776
+  - Email: AdaptiveSupport@centurylink.com
+
+Application Tuning Contact:
+  - Name: __First__ __Last__
+  - Title: Site Owner
+  - Email: __Email__
+
+Application ID: __AppID__
+Application Name: __AppName__
+
+Network Information:
+  - Primary WSM:
+    - Public IP: __MIP__
+    - Private IP: __RIP__
+    - Gateway: __Gateway__
+    - Subnet: /24 
+    - Appliance Name: __ALName__
+
+  - VIP: __VIP__
+  - Subnet: /32
+
+Website Information:
+  - Domain Name: __URL__
+  - Domain Alias: __VIP__
+  - Webserver Protocol: HTTP & HTTPS
+  - Webserver IP: __WIP__
+  - Listen Ports: 80, 443
+  - Encyrpted Traffic: Yes

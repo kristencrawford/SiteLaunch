@@ -1,0 +1,8 @@
+CLC Support Team,
+
+The VPN server has failed to deploy in ACCT.  Can you please resume it?
+Thanks,
+Adaptive Desk
+
+username: kristen.crawford.tccc
+pin: 611406

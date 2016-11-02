@@ -1,0 +1,10 @@
+--- BUILD DEFINITION ---
+OVA:ALWSM
+DC:
+ACCT:
+NAME:ALOGIC
+VLAN:
+GROUP:
+HA:
+2IP:
+--------- END ---------

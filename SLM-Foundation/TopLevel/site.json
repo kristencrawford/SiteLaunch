@@ -1,0 +1,60 @@
+{
+  "ApplicationID" : "_ApplicationID_",
+  "ApplicationName" : "_ApplicationName_",
+  "CLCAccountAlias" : "_CLCAccountAlias_",
+  "CLCParentAlias" : "_CLCParentAlias_",
+  "ServiceTier" : "_ServiceTier",
+  "TechStack" : "_TechStack_",
+  "ReferenceArchitecture" : "_ReferenceArchitecture_",
+  "SecurityTier" : "_SecurityTier_",
+  "Environments" : [
+    {
+      "Name" : "Production",
+      "Requested" : "_ProdRequested_",
+      "RemedyRequest" : "_CreateProdRRequestTicket_",
+      "SynergyRequest" : "_CreateProdSRequestTicket_",
+      "RequestDate" : "_ProdRequest_",
+      "BuildStart" : "_ProdBuildStart_",
+      "BuildComplete" : "_ProdBuildComplete_",
+      "SunsetRequest" : "_ProdSunsetRequestTicket_",
+      "SunsetStart" : "_ProdSunsetStart_",
+      "SunsetComplete" : "_ProdSunsetComplete_",
+      "Servers" : [ ]
+    },
+    {
+      "Name" : "Test",
+      "Requested" : "_TestRequested_",
+      "RemedyRequest" : "_CreateTestRRequestTicket_",
+      "SynergyRequest" : "_CreateTestSRequestTicket_",
+      "RequestDate" : "_TestRequest_",
+      "BuildStart" : "_TestBuildStart_",
+      "BuildComplete" : "_TestBuildComplete_",
+      "SunsetRequest" : "_TestSunsetRequestTicket_",
+      "SunsetStart" : "_TestSunsetStart_",
+      "SunsetComplete" : "_TestSunsetComplete_",
+      "Servers" : [ ]
+    },
+    {
+      "Name" : "Dev",
+      "Requested" : "_DevRequested_",
+      "RemedyRequest" : "_CreateDevRRequestTicket_",
+      "SynergyRequest" : "_CreateDevSRequestTicket_",
+      "RequestDate" : "_DevRequest_",
+      "BuildStart" : "_DevBuildStart_",
+      "BuildComplete" : "_DevBuildComplete_",
+      "SunsetRequest" : "_DevSunsetRequestTicket_",
+      "SunsetStart" : "_DevSvunsetStart_",
+      "SunsetComplete" : "_DevSunsetComplete_",
+      "Servers" : [ ]
+    }
+  ],
+  "Datacenter" : "_Datacenter_",
+  "Shibboleth" : "_Shibboleth_",
+  "DbaaS" : "_DbaaS_",
+  "SiteGroup": "_Group_",
+  "FileServer": "_FS_",
+  "Memcached": "_MemD_",
+  "ServiceCharge": "_ServiceCharge_",
+  "Requestors" : [ ],
+  "AdditionalDatacenters": []
+}

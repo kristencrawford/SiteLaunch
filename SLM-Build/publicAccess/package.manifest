@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+    <Metadata>
+        <UUID>20150408-d24c-4ce9-a0bc-e5c057c69846</UUID>
+        <Name>KO - Access API</Name>
+        <Description>call API that will run public access script</Description>
+    </Metadata>
+    <Parameters>
+        <Parameter Name="Site ID" Hint="" Type="Numeric" Variable="Site_ID" Prompt="Build" Global="false" Default="" Required="true"/>
+    </Parameters>
+    <Execution>
+        <Mode>Ssh</Mode>
+        <Command>access.sh '${Site_ID}'</Command>
+        <Persistent>false</Persistent>
+        <RebootOnSuccess>false</RebootOnSuccess>
+    </Execution>
+</Manifest>
